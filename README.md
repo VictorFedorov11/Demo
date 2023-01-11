@@ -3,5 +3,9 @@
 This is a simple readme file
 
 ##Heading 2
+<<<<<<< HEAD
 
-Sixth string changes
+=======
+Try here	
+And here too
+>>>>>>> updates
